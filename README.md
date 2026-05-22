@@ -2,7 +2,7 @@
 
 # Hi 👋, I'm Anjali Kasarla
 
-### 🚀 AI Engineer | Full Stack Developer | Cloud & Automation Enthusiast | ComputerViison + HCI
+### 🚀 AI Engineer | Full Stack Developer | Cloud & Automation Enthusiast | ComputerVison + HCI
 
 <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&pause=1000&color=F75CFF&center=true&vCenter=true&width=600&lines=AI+%26+Full+Stack+Developer;Building+Real-World+AI+Systems;LLMs+%7C+Cloud+%7C+Computer+Vision;Always+Learning+New+Things+🚀" />
 
