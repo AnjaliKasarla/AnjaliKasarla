@@ -1,35 +1,35 @@
-# Hi 👋 I'm Anjali Kasarla
+<div align="center">
 
-🚀 AI & Full Stack Developer passionate about building intelligent real-world systems using LLMs, Computer Vision, Cloud, and Automation.
+# Hi 👋, I'm Anjali Kasarla
 
-🧠 Exploring:
-- Agentic AI Workflows
-- RAG Systems
-- Multi-Cloud Platforms
-- Human-Computer Interaction
-- AI-powered Automation
+### 🚀 AI Engineer | Full Stack Developer | Cloud & Automation Enthusiast
 
-⚡ I love building products that combine AI + real-time interaction + scalable deployment.
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&pause=1000&color=F75CFF&center=true&vCenter=true&width=600&lines=AI+%26+Full+Stack+Developer;Building+Real-World+AI+Systems;LLMs+%7C+Cloud+%7C+Computer+Vision;Always+Learning+New+Things+🚀" />
+
+<br>
+
+![](https://komarev.com/ghpvc/?username=AnjaliKasarla&style=for-the-badge&color=blueviolet)
+
+</div>
 
 ---
 
-## 🧠 About Me
+# 🧠 About Me
 
-💡 Built AI-powered systems using Gemini, OpenAI, LangChain, Qdrant & FastAPI
+💡 Building AI-powered applications using **OpenAI, Gemini, LangChain & RAG**
 
-🚀 Developed real-time AI applications combining Computer Vision + Human-Computer Interaction
+🖐️ Developed a **Gesture Controlled Desktop System** using Computer Vision & TensorFlow
 
-☁️ Built and deployed a Multi-Cloud Cost Optimization Platform integrating AWS & Azure SDKs
+☁️ Built a **Multi-Cloud Cost Optimization Platform** integrating AWS & Azure
 
-🖐️ Created a Gesture Controlled Desktop System enabling touchless computer interaction using hand gestures
+⚡ Passionate about:
+- AI Engineering
+- Human-Computer Interaction
+- Cloud Systems
+- Intelligent Automation
+- Real-time AI Applications
 
-📚 Experienced in RAG pipelines, embeddings, vector databases, and conversational AI systems
-
-⚡ Passionate about turning AI concepts into deployable full-stack products
-
-🐳 Hands-on experience with Docker, cloud deployment, and production-ready architectures
-
-🏆 Participated in national-level hackathons solving real-world AI problems
+🎯 Goal: Building impactful AI products that solve real-world problems
 
 ---
 
@@ -37,50 +37,48 @@
 
 ## 🖐️ AirOS — AI Gesture Controlled Desktop System
 
-Built a futuristic touchless desktop interaction system using Computer Vision and AI gesture recognition.
+✨ Features:
+- Real-time Hand Tracking
+- AI Gesture Recognition
+- Virtual Mouse Control
+- Gesture-based Scrolling
+- Volume & Brightness Control
+- AI-powered App Launching
 
-### ✨ Features
-- Real-time hand tracking using MediaPipe
-- AI gesture recognition with TensorFlow
-- Virtual mouse & drag-drop control
-- Gesture-based scrolling
-- System volume & brightness control
-- AI-powered app launching (Chrome, VS Code, Spotify)
-
-### 🛠️ Tech Stack
-Python • OpenCV • TensorFlow • MediaPipe • PyAutoGUI
+🛠️ Tech Stack:
+`Python` `OpenCV` `TensorFlow` `MediaPipe` `PyAutoGUI`
 
 ---
 
-## ☁️ CloudSense AI — Multi-Cloud Cost Optimization Platform
+## ☁️ CloudSense AI — Multi-Cloud Optimization Platform
 
-Developed a full-stack AI-powered cloud analytics platform integrating AWS and Azure for intelligent resource optimization.
+✨ Features:
+- AWS + Azure Integration
+- Real-time Cloud Monitoring
+- AI Optimization Recommendations
+- Idle Resource Detection
+- Analytics Dashboard
 
-### ✨ Features
-- Multi-cloud monitoring dashboard
-- AI-powered optimization recommendations
-- Idle resource detection
-- Real-time analytics
-- Unified AWS + Azure insights
-
-### 🛠️ Tech Stack
-React • TypeScript • FastAPI • Python • AWS SDK • Azure SDK
-
-### 🚀 Deployment
-Frontend → Vercel  
-Backend → Railway
+🛠️ Tech Stack:
+`React` `TypeScript` `FastAPI` `Python` `AWS SDK` `Azure SDK`
 
 ---
 
-## 📊 GitHub Stats
+# 📊 GitHub Stats
 
-![](https://github-readme-stats.vercel.app/api?username=AnjaliKasarla&show_icons=true&theme=tokyonight)
+<div align="center">
 
-![](https://github-readme-streak-stats.herokuapp.com/?user=AnjaliKasarla&theme=tokyonight)
+![](https://github-readme-stats.vercel.app/api?username=AnjaliKasarla&show_icons=true&theme=tokyonight&hide_border=true)
+
+![](https://github-readme-streak-stats.herokuapp.com/?user=AnjaliKasarla&theme=tokyonight&hide_border=true)
+
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=AnjaliKasarla&layout=compact&theme=tokyonight&hide_border=true)
+
+</div>
 
 ---
 
-## 🛠️ Tech Stack
+# 🛠️ Tech Stack
 
 ### 🚀 Frontend
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react)
@@ -99,30 +97,30 @@ Backend → Railway
 ![LangChain](https://img.shields.io/badge/LangChain-121212?style=for-the-badge)
 ![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
 ![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white)
-![MediaPipe](https://img.shields.io/badge/MediaPipe-FF6F00?style=for-the-badge)
-### 🗄️ Databases
-![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
-![Qdrant](https://img.shields.io/badge/Qdrant-FF4F8B?style=for-the-badge)
 ### ☁️ Cloud & DevOps
 ![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white)
 ![Azure](https://img.shields.io/badge/Azure-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
-### 💻 Languages
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
-![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
 
 ---
 
-## 🌐 Connect With Me
+# 🌐 Connect With Me
 
-[LinkedIn](https://www.linkedin.com/in/anjali-kasarla-4b3257366/)  
-[GitHub](https://github.com/AnjaliKasarla)
+<p align="left">
+<a href="https://github.com/AnjaliKasarla">
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github"/>
+</a>
+
+<a href="https://www.linkedin.com/in/anjali-kasarla-4b3257366/">
+<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin"/>
+</a>
+</p>
 
 ---
 
-⭐ Building AI systems that solve real-world problems
+<div align="center">
+
+### ⭐ Building AI Systems That Solve Real-World Problems ⭐
+
+</div>
