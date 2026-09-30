@@ -134,7 +134,7 @@ AI-assisted Linux optimization platform combining system monitoring with intelli
 
 ---
 
-# 💻 Full-Stack Development
+### 💻 Full-Stack Development
 
 ## 🚀 Frontend
 
