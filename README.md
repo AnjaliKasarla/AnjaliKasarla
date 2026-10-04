@@ -19,8 +19,7 @@ Building intelligent, production-oriented AI systems with
 
 # 🧠 About Me
 
-🎓 **B.Tech (Honours) CSE** student specializing in  
-**Applied Machine Learning for Text Analysis**
+🎓 **B.Tech (Honours) CSE** student specializing in **Applied Machine Learning for Text Analysis**
 
 🤖 Building AI applications using **LLMs, RAG, NLP, BERT, Transformers, and Semantic Search**
 
