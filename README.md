@@ -17,7 +17,7 @@ Building intelligent, production-oriented AI systems with
 
 ---
 
-# 🧠 About Me
+## 🧠 About Me
 
 🎓 **B.Tech (Honours) CSE** student specializing in **Applied Machine Learning for Text Analysis**
 
@@ -41,9 +41,8 @@ Building intelligent, production-oriented AI systems with
 
 🎯 **Goal:** Build reliable AI systems that solve real-world problems.
 
----
 
-# 🚀 Featured Projects
+## 🚀 Featured Projects
 
 ## 🚦 Urban Traffic Accident Risk Assessment & Prediction
 
@@ -105,7 +104,7 @@ AI-assisted Linux optimization platform combining system monitoring with intelli
 
 ---
 
-# 🧠 AI / ML Expertise
+## 🧠 AI / ML Expertise
 
 ### 🤖 Generative AI & LLMs
 
