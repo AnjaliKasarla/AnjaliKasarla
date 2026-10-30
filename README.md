@@ -174,13 +174,14 @@ AI-assisted Linux optimization platform combining system monitoring with intelli
 
 🏅 **JPMorganChase Code for Good 2026**
 
+📚 **Microsoft Azure AI Fundamentals**
+
+☁️ **AWS Certified Cloud Practitioner**
+
 🎓 **Smart Interviews DSA Fellowship**
 
 💻 **150+ DSA Problems Solved**
 
-📚 **Microsoft Azure AI Fundamentals**
-
-☁️ **AWS Certified Cloud Practitioner**
 
 ---
 
