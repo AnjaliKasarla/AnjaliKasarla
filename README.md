@@ -30,11 +30,11 @@ Building intelligent, production-oriented AI systems with
 ⚡ Strong interests in:
 
 - Artificial Intelligence & Machine Learning
-- Natural Language Processing
-- Large Language Models
 - Retrieval-Augmented Generation
 - Transformer Models & BERT
 - Multi-Agent AI Systems
+- Natural Language Processing
+- Large Language Models
 - Semantic Search & Vector Databases
 - AI Automation
 - Full-Stack AI Applications
